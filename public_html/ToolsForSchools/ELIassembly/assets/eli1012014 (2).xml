@@ -1,0 +1,122 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node name="" cls="" m="" d="" y="" compat="eli1012014" idk="null">
+  <node name="ELI4">
+    <node name="Playing your part" pairID="1" color="0x00ffff">
+      Being able to trust others and negotiate, cooperate, work as a team, give and take,  see other people`s point of view,  cope when things don`t go your way, have good self-control, make wise choices and decisions that are good for you and others.
+      <node num="1">
+        I really enjoy helping others
+        <feedback><node type="1">I really enjoy helping others</node><node type="0">I don`t enjoy helping others</node><node type="10">I really enjoy helping others sometimes</node></feedback><comment>null</comment></node><node num="2">
+        I like sharing my ideas with others
+        <feedback><node type="1">I like sharing my ideas with others</node><node type="0">I don`t like sharing my ideas with others</node><node type="10">I like sharing my ideas with others sometimes</node></feedback><comment>null</comment></node><node num="3">I take school seriously<feedback><node type="1">I take school seriously</node><node type="0">I mess about a lot</node><node type="10">I take school seriously sometimes</node></feedback><comment>null</comment></node><node num="4">I will always admit when it is my fault<feedback><node type="1">I will always admit when it is my fault</node><node type="0">I find it hard to admit when something is my fault</node><node type="10">I will admit when some things are my fault</node></feedback><comment>null</comment></node><node num="5">
+        I am happy for others when they do well
+        <feedback><node type="1">I am happy for others when they do well</node><node type="0">I get jealous when others do well</node><node type="10">I am happy for others when they do well sometimes</node></feedback><comment>null</comment></node><node num="6">
+        I am good at helping to sort out arguments
+        <feedback><node type="1">I am good at helping to sort out arguments</node><node type="0">I am bad at helping to sort out arguments</node><node type="10">I am good at helping to sort out some arguments</node></feedback><comment>null</comment></node></node>
+    <node name="Wanting your own way" pairID="-1" color="0x00ffff">
+      I want-it-now attitude, I think I can just do what I like, I think I am better than everyone else.
+      <node num="7">
+        I like to annoy people
+        <feedback><node type="1">I try not to annoy people</node><node type="0">I like to annoy people</node><node type="10">I like to annoy some people</node></feedback><comment>null</comment></node><node num="8">
+        I enjoy annoying teachers
+        <feedback><node type="1">I care about how teachers are feeling</node><node type="0">I enjoy annoying teachers</node><node type="10">I enjoy annoying some teachers</node></feedback><comment>null</comment></node><node num="9">
+        I like to show I am better than everyone else
+        <feedback><node type="1">I don`t need to show I am better than everyone else</node><node type="0">I like to show I am better than everyone else</node><node type="10">I like to show I am better than everyone else sometimes</node></feedback><comment>null</comment></node><node num="10">
+        It is hard for me to take no for an answer
+        <feedback><node type="1">I can take no for an answer</node><node type="0">It is hard for me to take no for an answer</node><node type="10">It is hard for me to take no for an answer sometimes</node></feedback><comment>null</comment></node><node num="11">
+I am bossy and like to get my own way       <feedback><node type="1">I don't need to get my own way</node><node type="0">I am bossy to get my own way</node><node type="10">I can be a bit bossy</node></feedback><comment>null</comment></node><node num="12">
+        If I get a row from the teacher, I show how angry I am
+        <feedback><node type="1">If I get a row from the teacher, I try not to show how angry I am</node><node type="0">If I get a row from the teacher, I show how angry I am</node><node type="10">If I get a row from the teacher, I sometimes show how angry I am</node></feedback><comment>null</comment></node></node>
+    <node name="Fitting In" pairID="2" color="0xffff00">
+      Being kind and friendly and comfortable with others, aware of the impact of your behaviour on others,  care for, help and protect others, play safely with others, take a stand against bullying, be willing to depend on others.
+      <node num="13">
+        I like to get to know other people
+        <feedback><node type="1">I like to get to know other people</node><node type="0">I am not really interested in getting to know other people</node><node type="10">Sometimes I like to get to know other people</node></feedback><comment>null</comment></node><node num="14">
+        I care about how others in the class are feeling
+        <feedback><node type="1">I care about how others in the class are feeling</node><node type="0">I am not bothered how others in the class are feeling</node><node type="10">I care about how some people in the class are feeling</node></feedback><comment>null</comment></node><node num="15">
+        If I disappeared the class would care
+        <feedback><node type="1">If I disappeared the class would care</node><node type="0">I don`t matter to this class</node><node type="10">If I disappeared some of the class would care</node></feedback><comment>null</comment></node><node num="16">
+        I like my teachers
+        <feedback><node type="1">I like my teachers</node><node type="0">I dislike my teachers</node><node type="10">I like some of my teachers</node></feedback><comment>null</comment></node><node num="17">I am kind<feedback><node type="1">I am kind</node><node type="0">I find it hard to be kind</node><node type="10">I am kind sometimes</node></feedback><comment>null</comment></node><node num="18">
+        I like to please people
+        <feedback><node type="1">I like to please people</node><node type="0">I don`t care about pleasing people</node><node type="10">I like to please some people</node></feedback><comment>null</comment></node></node>
+    <node name="Being Awkward" pairID="-2" color="0xffff00">
+      Annoying, alienating and rubbishing your peers, or going it alone, having doubts about others, finding it hard to make relationships.
+      <node num="19">
+        I get into fights
+        <feedback><node type="1">I avoid getting into fights</node><node type="0">I get into fights</node><node type="10">I get into fights sometimes</node></feedback><comment>null</comment></node><node num="20">
+        I find it hard to work with others
+        <feedback><node type="1">I can work with others</node><node type="0">I find it hard to work with others</node><node type="10">I find it hard to work with some people</node></feedback><comment>null</comment></node><node num="21">
+        I think I am one of the pupils teachers don`t like
+        <feedback><node type="1">My teachers like me</node><node type="0">My teachers dislike me</node><node type="10">Some of my teachers dislike me</node></feedback><comment>null</comment></node><node num="22">
+        I find it hard to fit in
+        <feedback><node type="1">I fit in</node><node type="0">I find it hard to fit in</node><node type="10">I sometimes find it hard to fit in</node></feedback><comment>null</comment></node><node num="23">
+        Other people would describe me as rude
+        <feedback><node type="1">People see me as polite</node><node type="0">People think I am rude</node><node type="10">Some people think I am rude</node></feedback><comment>null</comment></node><node num="24">
+        I keep myself to myself
+        <feedback><node type="1">I let people get to know me</node><node type="0">I keep myself to myself</node><node type="10">I keep myself to myself sometimes</node></feedback><comment>null</comment></node></node>
+    <node name="Bettering yourself" pairID="3" color="0xff9900">
+      Try your best, stretch yourself, be conscientious, enjoy and be open to learning, be inquiring and creative, take criticism well, focus and shift attention and persist on tasks, and learn from mistakes.
+      <node num="25">
+        I take time to check my work to make it better
+        <feedback><node type="1">I take time to check my work to make it better</node><node type="0">I rarely take time to check my work to make it better</node><node type="10">I sometimes take time to check my work to make it better</node></feedback><comment>null</comment></node><node num="26">I like to hear how some people think I'm doing<feedback><node type="1">I like to hear how others think I`m doing</node><node type="0">I am not interested in how others think I`m doing</node><node type="10">I sometimes like to hear how others think I`m doing</node></feedback><comment>null</comment></node><node num="27">
+        I enjoy showing what I am good at
+        <feedback><node type="1">I like to show what I am good at</node><node type="0">I don't like to show what I am good at</node><node type="10">I like to show what I am good at sometimes</node></feedback><comment>null</comment></node><node num="28">
+        I will try things even if I might look stupid
+        <feedback><node type="1">I will try things even if I might look stupid</node><node type="0">I won`t try things if I might look stupid</node><node type="10">I will try sometimes even if I might look stupid</node></feedback><comment>null</comment></node><node num="29">
+        I do the best I can
+        <feedback><node type="1">I do the best I can</node><node type="0">I have stopped doing the best I can</node><node type="10">I do the best I can sometimes</node></feedback><comment>null</comment></node><node num="30">
+        I like school
+        <feedback><node type="1">I like school</node><node type="0">I don`t like school</node><node type="10">I like some things about school</node></feedback><comment>null</comment></node></node>
+    <node name="Giving Up" pairID="-3" color="0xff9900">
+      Being lazy, do as little work as you can get away with, easily distracted and put off your work, don`t care about your work, feel you are good at nothing.
+      <node num="31">
+        It is difficult for me to stay focused on my work
+        <feedback><node type="1">I can stay focused on my work</node><node type="0">It is difficult for me to stay focused on my work</node><node type="10">It is sometimes difficult for me to stay focused on my work</node></feedback><comment>null</comment></node><node num="32">
+        I give up if something is really hard
+        <feedback><node type="1">I keep trying if something is really hard</node><node type="0">I give up if something is really hard</node><node type="10">I sometimes give up if something is really hard</node></feedback><comment>null</comment></node><node num="33">
+        I am rubbish at most things
+        <feedback><node type="1">I think I am good at some things</node><node type="0">I think I am rubbish at most things</node><node type="10">I sometimes think I am rubbish at most things</node></feedback><comment>null</comment></node><node num="34">
+        To me, school is just a place to have a carry on
+        <feedback><node type="1">To me, school is a place to learn</node><node type="0">To me, school is just a place to have a carry on</node><node type="10">To me, school is sometimes just a place to have a carry on</node></feedback><comment>null</comment></node><node num="35">
+        I get bored easily
+        <feedback><node type="1">I rarely get bored</node><node type="0">I am bored most of the time</node><node type="10">I get bored quite a lot</node></feedback><comment>null</comment></node><node num="36">
+        I feel ashamed of myself
+        <feedback><node type="1">I feel ok about myself</node><node type="0">I feel ashamed of myself</node><node type="10">I feel ashamed of myself sometimes</node></feedback><comment>null</comment></node></node>
+    <node name="Putting self forward" pairID="4" color="0x006600">
+      Express self and voice opinions, stand up for self, show your talents,  resist peer pressure, push self, be competitive, be sure about self and what you want to do, show initiative, be decisive, direct and bold, make things happen, get things done.
+      <node num="27">
+        I like to challenge and push myself
+        <feedback><node type="1">I like to challenge and push myself</node><node type="0">I avoid challenging and pushing myself</node><node type="10">Sometimes I like to challenge and push myself</node></feedback><comment>null</comment></node><node num="38">
+        I feel that I am just as good as everyone else
+        <feedback><node type="1">I feel that I am just as good as everyone else</node><node type="0">I don't feel that I am as good as everyone else</node><node type="10">I feel that I am just as good as everyone else sometimes</node></feedback><comment>null</comment></node><node num="39">I enjoy doing presentations<feedback><node type="1">I enjoy doing presentations</node><node type="0">I feel nervous doing presentations</node><node type="10">I sometimes enjoy doing presentations</node></feedback><comment>null</comment></node><node num="40">
+        I would correct the teacher if they made a mistake
+        <feedback><node type="1">I would correct the teacher if they made a mistake</node><node type="0">I would not correct the teacher if they made a mistake</node><node type="10">I would correct some teachers if they made a mistake</node></feedback><comment>null</comment></node><node num="41">
+        I can say no if people try to get me involved in bad things
+        <feedback><node type="1">I can say no if people try to get me involved in bad things</node><node type="0">I can't say no if people try to get me involved in bad things</node><node type="10">I can say no sometimes if people try to get me involved in bad things</node></feedback><comment>null</comment></node><node num="42">
+        I feel safe in school
+        <feedback><node type="1">I feel safe in school</node><node type="0">I don`t feel safe in school</node><node type="10">I feel safe in school sometimes</node></feedback><comment>null</comment></node></node>
+    <node name="Lying Low" pairID="-4" color="0x006600">
+      Being apprehensive, a bit of a pushover, avoiding being picked or taking on responsibilities; would like to get close to others but are apprehensive about being rejected, would like to get involved but worried about getting things wrong
+      <node num="43">
+        It is difficult for me to tell people if they have hurt my feelings
+        <feedback><node type="1">I can tell people if they have hurt my feelings</node><node type="0">I find it hard to tell people if they have hurt my feelings</node><node type="10">I find it hard to tell some people if they have hurt my feelings</node></feedback><comment>null</comment></node><node num="44">
+        I often know the answer but don`t put my hand up
+        <feedback><node type="1">If I know the answer I will put my hand up</node><node type="0">I will often know the answer but don`t put my hand up</node><node type="10">I sometimes know the answer but don't put my hand up</node></feedback><comment>null</comment></node><node num="45">
+        I get upset easily
+        <feedback><node type="1">It takes a lot to upset me</node><node type="0">I get upset easily</node><node type="10">Sometimes I get upset easily</node></feedback><comment>null</comment></node><node num="46">
+        I avoid being chosen for things
+        <feedback><node type="1">I like being chosen for things</node><node type="0">I avoid being chosen for things</node><node type="10">I avoid being chosen for some things</node></feedback><comment>null</comment></node><node num="47">
+        I find it hard to ask for help
+        <feedback><node type="1">I find it easy to ask for help</node><node type="0">I find it hard to ask for help</node><node type="10">I sometimes find it hard to ask for help</node></feedback><comment>null</comment></node><node num="48">I worry about what other people think of me<feedback><node type="1">I get on with things without worrying about what others might think of me</node><node type="0">I worry about what other people think of me</node><node type="10">I worry about what some people think of me</node></feedback><comment>null</comment></node></node>
+  </node>
+  <questions>
+    <question>Q1. What makes school worth coming to?<answer /></question>
+    <question>Q2. What percentage of your ability are you using in your school work? 0 - 100%<answer /></question>
+    <question>Q3. What is putting you off and stopping you using ALL your ability?<answer /></question>
+    <question>Q4. What is your reputation at school?<answer /></question>
+    <question>Q5. In school, how much of the time can you be your real self - 0 to 100%<answer /></question>
+    <question>Q6. What is stopping you being your real self all the time?<answer /></question>
+    <question>Q7. Would you like to improve anything about your attitude to learning, if so, what?<answer /></question>
+    <question>Q8. Doing this questionnaire, is there anything you have learned about yourself? If so what?<answer /></question>
+  </questions>
+</node>

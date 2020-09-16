@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node compat="sf112014">
+  <node stance="EXASPERATOR">
+    <node sheet="1" position="3">changes every day</node>
+    <node sheet="2" position="2">confusing</node>
+    <node sheet="3" position="2">forgetful</node>
+    <node sheet="4" position="1">annoying</node>
+    <node sheet="5" position="6">unfocused</node>
+    <node sheet="6" position="6">can't make up their mind</node>
+    <node sheet="7" position="3">disorganised</node>
+  </node>
+  <node stance="HUGGER">
+    <node sheet="1" position="1">calm and relaxed</node>
+    <node sheet="2" position="1">caring</node>
+    <node sheet="3" position="4">enjoys banter with class</node>
+    <node sheet="4" position="7">fair</node>
+    <node sheet="5" position="2">careful not to upset pupils</node>
+    <node sheet="6" position="2">smiling</node>
+    <node sheet="7" position="5">picks up on pupils' concerns</node>
+  </node>
+  <node stance="BRUISER">
+    <node sheet="1" position="4">threatening</node>
+    <node sheet="2" position="6">always judging you</node>
+    <node sheet="3" position="1">gets angry easily</node>
+    <node sheet="4" position="5">always starting arguments</node>
+    <node sheet="5" position="3">sarcastic</node>
+    <node sheet="6" position="4">puts pupils down</node>
+    <node sheet="7" position="7">control freak</node>
+  </node>
+  <node stance="PUSHOVER">
+    <node sheet="1" position="6">over-protective</node>
+    <node sheet="2" position="3">doesn't follow things through</node>
+    <node sheet="3" position="6">bit of a pushover</node>
+    <node sheet="4" position="6">always apologising</node>
+    <node sheet="5" position="1">does the work for pupils</node>
+    <node sheet="6" position="3">casual &amp; unreliable</node>
+    <node sheet="7" position="6">let's pupil's off with too much</node>
+  </node>
+  <node stance="ENERGISER">
+    <node sheet="1" position="5">forgiving</node>
+    <node sheet="2" position="7">purposeful</node>
+    <node sheet="3" position="7">open to being influenced by pupils</node>
+    <node sheet="4" position="4">pupils look up to them</node>
+    <node sheet="5" position="5">will change when needed</node>
+    <node sheet="6" position="7">trusted by most pupils</node>
+    <node sheet="7" position="1">tries not to hurt your feelings</node>
+  </node>
+  <node stance="SQUEEZER">
+    <node sheet="1" position="2">pacy</node>
+    <node sheet="2" position="5">surprising</node>
+    <node sheet="3" position="3">high expectations</node>
+    <node sheet="4" position="2">'larger than life' character</node>
+    <node sheet="5" position="4">good organiser</node>
+    <node sheet="6" position="5">encourages ambition</node>
+    <node sheet="7" position="4">pushy</node>
+  </node>
+  <node stance="CRUSHER">
+    <node sheet="1" position="7">never praises</node>
+    <node sheet="2" position="4">moans about small stuff</node>
+    <node sheet="3" position="5">no sense of humour</node>
+    <node sheet="4" position="3">unpredictable</node>
+    <node sheet="5" position="7">huffy</node>
+    <node sheet="6" position="1">humiliating</node>
+    <node sheet="7" position="2">rude</node>
+  </node>
+  <best>null</best>
+  <worst>null</worst>
+</node>

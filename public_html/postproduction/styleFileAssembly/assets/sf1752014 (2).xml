@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node compat="sf1752014">
+  <node stance="PLEASER">
+    <node sheet="1" position="6">tries to help too much</node>
+    <node sheet="6" position="1">easily persuaded by pupils</node>
+    <node sheet="2" position="5">nervous around pupils</node>
+    <node sheet="4" position="4">over-friendly</node>
+    <node sheet="3" position="6">tries too hard to please</node>
+    <node sheet="5" position="2">says you're doing well, even if not</node>
+  </node>
+  <node stance="BRUISER">
+    <node sheet="1" position="4">cocky</node>
+    <node sheet="4" position="1">unfairly picks on pupils</node>
+    <node sheet="7" position="5">hurtfully sarcastic</node>
+    <node sheet="8" position="6">winds pupils up</node>
+    <node sheet="2" position="4">selfishly demanding</node>
+    <node sheet="5" position="6">always needs to be in control</node>
+  </node>
+  <node stance="CRUSHER">
+    <node sheet="2" position="1">never know what they will do next</node>
+    <node sheet="9" position="1">shouts at you for nothing</node>
+    <node sheet="4" position="5">makes a fool of pupils</node>
+    <node sheet="3" position="3">goes easily into a rage</node>
+    <node sheet="8" position="5">reminds pupils of their faults </node>
+    <node sheet="5" position="3">doesn't listen or take you seriously</node>
+  </node>
+  <node stance="MISER">
+    <node sheet="3" position="5">ignores you</node>
+    <node sheet="5" position="5">never compliments</node>
+    <node sheet="7" position="6">rude</node>
+    <node sheet="2" position="2">has favourites</node>
+    <node sheet="9" position="5">impossible to please</node>
+    <node sheet="4" position="3">no sense of humour</node>
+  </node>
+  <node stance="SQUEEZER">
+    <node sheet="1" position="2">aims high</node>
+    <node sheet="2" position="3">puts everything into it</node>
+    <node sheet="6" position="6">strict</node>
+    <node sheet="3" position="4">highly organised</node>
+    <node sheet="4" position="2">pushes pupils to their limits</node>
+    <node sheet="5" position="4">highly focused</node>
+  </node>
+  <node stance="PLODDER">
+    <node sheet="9" position="6">doesn't expect much of pupils</node>
+    <node sheet="6" position="5">work too easy</node>
+    <node sheet="8" position="1">takes ages to explain things</node>
+    <node sheet="5" position="1">slow pace</node>
+    <node sheet="7" position="1">tiresome</node>
+    <node sheet="4" position="6">lacks knowledge</node>
+  </node>
+  <node stance="HUGGER">
+    <node sheet="8" position="4">fair</node>
+    <node sheet="6" position="2">enjoys a laugh with the class</node>
+    <node sheet="9" position="2">friendly</node>
+    <node sheet="1" position="1">calm and relaxed</node>
+    <node sheet="2" position="6">kind hearted</node>
+    <node sheet="7" position="2">careful not to hurt pupils' feelings</node>
+  </node>
+  <node stance="EXASPERATOR">
+    <node sheet="7" position="4">can't make up their mind</node>
+    <node sheet="1" position="3">distracted easily</node>
+    <node sheet="8" position="3">shows off</node>
+    <node sheet="3" position="1">keeps on moaning about small stuff</node>
+    <node sheet="9" position="3">tries but fails to be funny</node>
+    <node sheet="6" position="4">confusing</node>
+  </node>
+  <node stance="UPLIFTER">
+    <node sheet="1" position="5">believes in pupils</node>
+    <node sheet="9" position="4">exciting and fun</node>
+    <node sheet="6" position="3">inspiring</node>
+    <node sheet="7" position="3">never gives up on pupils</node>
+    <node sheet="8" position="2">spots pupils' hidden talents</node>
+    <node sheet="3" position="2">treats everyone as special</node>
+  </node>
+  <best>null</best>
+  <worst>null</worst>
+</node>

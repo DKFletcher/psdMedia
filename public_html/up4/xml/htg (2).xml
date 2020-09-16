@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<node name="Helpfull Thought Game" >
+	<node name="learning">
+		<node type="1">Ooops, I've made a mistake but thats OK. I won't do that again!</node>
+		<node type="1">This is so boring but it will be break soon so I'll just make a start.</node>
+		<node type="1">The harder I'm finding this, the more satisfaction I'll get if I get it right.</node>
+		<node type="1">I did well on that test because I actually listened in class.</node>
+		<node type="1">I don't know if I can do this but I'm going to have a go - it's not the end of the world if I get it wrong.</node>
+		<node type="0">I tried in that last lesson and still came last - it's not fair.</node>
+		<node type="0">I can't write 3 pages - it's stupid work anyway.</node>
+		<node type="0">I know the teacher doesn't like it but I need a ruler so I'll just walk over and get one.</node>
+		<node type="0">I'm not doing this, I'm going to ask if we can do the drama from last week 'cause that's more fun.</node>
+		<node type="0">If she won't let me chat to my mates, I won't do her boring work.</node>
+	</node>
+	<node name="discipline">
+		<node type="1">I won't get sent out, however hard it is to stay, because that's the target I've set myself.</node>
+		<node type="1">I've got a choice here, I can shut up or get detention.</node>
+		<node type="1">I'm going to give this a go for 10 minutes and see how it goes...</node>
+		<node type="1">I didn't do well in that test because I didn't work for it. I just need to practice a bit more.</node>
+		<node type="1">They can think what they like. When I make up my mind to do something I just do it.</node>
+		<node type="0">She said "The next person to do that goes to the office!". I did it and got some laugh from the boys.</node>
+		<node type="0">If I wind the teacher up enough then I will get out of class.</node>
+		<node type="0">I'm already in trouble so there's no point in going to science.</node>
+		<node type="0">This is the worst lesson in the world - I'm going to die of boredom.</node>
+		<node type="0">All the teachers hate me in this school and I hate them - that's why I get into trouble.</node>
+	</node>
+	<node name="social">
+		<node type="1">I hate it when Jamie says that to me but I'm big enough to ignore it.</node>
+		<node type="1">I'm not sitting next to her today - I know I'll want to chat. I'll see her at break.</node>
+		<node type="1">I really like French now, before I always got frustrated then angry in her class. Since we talked that day on the outing, it's a lot better.</node>
+		<node type="1">I always used to get into bother at lunchtime but since I joined my club, lunchtime is a pure breeze.</node>
+		<node type="1">Since I started getting my mates up the road to school in the morning, I haven't been late once.</node>
+		<node type="0">If anyone says anything to me I'll hit them - it will be their own fault.</node>
+		<node type="0">If I do what she says my friends will say I've gone soft.</node>
+		<node type="0">I'm only messing around because this lesson is so boring - you've got to have a bit of fun.</node>
+		<node type="0">I just like making everyone laugh - it's more fun than sitting around writing anyway.</node>
+		<node type="0">I'm going to sit with my mates whatever she says - it's the only good thing about school.</node>
+	</node>
+	<node name="future">
+		<node type="1">They can call me a teachers pet if they want - I bet they don't when they see the car I'm going to have.</node>
+		<node type="1">I won't say that because I'll get sent out and if I do my dad won't take me fishing.</node>
+		<node type="1">I can only get what I want in the future by working hard now, even when it's difficult.</node>
+		<node type="1">I can't believe she said that but I really want to keep it together now, so I'll keep remembering that and it will help me get through until I'm calmed down.</node>
+		<node type="1">OK - that was stupid. But no-one will remember it in three weeks time so it's not worth going over and over it...</node>
+		<node type="0">I've missed so many lessons there's no point in trying to catch up now.</node>
+		<node type="0">I will work when I'm getting paid for it - why should I work for nothing?</node>
+		<node type="0">I'll think about what I want to do when I leave school.</node>
+		<node type="0">There's no point in working - it's only school.</node>
+		<node type="0">I don't need school, my uncles going to give me a job no matter what.</node>
+	</node>
+	<node name="me">
+		<node type="1">I'm probably not the only one who's finding this hard - I'll ask her to explain again.</node>
+		<node type="1">Science may not be my best subject but I AM getting better.</node>
+		<node type="1">I messed up that one - but it's OK - nobody's perfect.</node>
+		<node type="1">I can say no to my friends - if they don't respect my decisions they can't respect me much.</node>
+		<node type="1">I wasn't picked for the team this time, but with practice I might be good enough.</node>
+		<node type="0">It doesn't make any difference if I work or not - I'll still be useless.</node>
+		<node type="0">I need to be his friend so I'll show off and he'll like me.</node>
+		<node type="0">What's the point in school; it's not as if it matters where I'm going.</node>
+		<node type="0">I'm not good at learning and school work as such, but I can wind teachers up something wicked.</node>
+		<node type="0">I'll just sit and try to become invisible, that usually works.</node>
+	</node>
+	<node name="scrap">
+		<node type="1">I only bunked off because my friends would have laughed at me if I didn't go with them.</node>
+		<node type="1">I can hardly say no when everyone's doing it, can I?</node>
+		<node type="1">There's no point in trying in French - she hates me anyway.</node>
+		<node type="1">I came bottom in that test because the teacher doesn't like me.</node>
+	</node>
+</node>

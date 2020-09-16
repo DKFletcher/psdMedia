@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<node name="SELF Menu">
+	<node name="Electronic SELF">
+		<node url="1">
+			<node>Professional Version</node>
+		</node>
+		<node url="2">
+			<node>Advanced Professional Version</node>
+		</node>
+		<node url="3">
+			<node>Young Persons Version</node>
+		</node>
+		<node url="4">
+			<node>Print</node>
+		</node>
+	</node>
+	<node name="Paper SELF">
+		<node url="docs/0.pdf">
+			<node>SELF Overview</node>
+		</node>
+		<node url="docs/1.pdf">
+			<node>SELF Key</node>
+		</node>
+		<node url="docs/2.pdf">
+			<node>Young Persons SELF Profile</node>
+		</node>
+		<node url="docs/4.pdf">
+			<node>ASELN (Internal)</node>
+		</node>
+		<node url="docs/3.pdf">
+			<node>ASELN (External)</node>
+		</node>
+		<node url="docs/5.pdf">
+			<node>SELF (short version)</node>
+		</node>
+		<node url="docs/6.pdf">
+			<node>My Learning Stances</node>
+		</node>
+		<node url="docs/7.pdf">
+			<node>Learning Stances Proforma (Primary)</node>
+		</node>
+		<node url="docs/8.pdf">
+			<node>Learning Stances Proforma (Secondary)</node>
+		</node>
+		<node url="docs/9.pdf">
+			<node>Learning Stances Proforma (Parent 1)</node>
+		</node>
+		<node url="docs/10.pdf">
+			<node>Learning Stances Proforma (Parent 2)</node>
+		</node>
+	</node>
+</node>

@@ -1,0 +1,53 @@
+/* 
+    Document   : master
+    Created on : 21-Aug-2013, 16:46:09
+    Author     : D Fletcher
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+{  
+    margin: 0;  
+    padding: 20;  
+}  
+  
+/* Tell the browser to render HTML 5 elements as block */  
+header, footer, aside, nav, article {  
+    display: block;  
+}  
+
+body { 
+    margin: 0 auto; 
+    width: 828px;
+    font: 16px Arial;
+    color: #ffffff;
+    background: #000000;
+    text-align: justify;  
+}  
+  
+h1 {  
+    font-size: 28px;
+    color: #ffffff; 
+    text-align: left;  
+    line-height: 12px; 
+    text-decoration: none; 
+}  
+  
+h2 {  
+    font-size: 20px;  
+    line-height: 20px;  
+    color: #ffffff;
+}  
+h3 {  
+    font-size: 10px;  
+    line-height: 2px;  
+    color: #ffffff;
+    text-align: right;
+}
+h4{
+    margin: 0
+}
+p {
+    color: #ffffff; 
+    text-align: justify;  
+}

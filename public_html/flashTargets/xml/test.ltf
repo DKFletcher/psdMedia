@@ -1,0 +1,25 @@
+<node chartVis="true" chartX="25" chartY="42" tInVX="70" tInVY="385" staRaX="610" staRaY="430">
+  <node>
+    <node>
+      <node targetID="0">
+        <node>1
+2
+3</node>
+      </node>
+    </node>
+  </node>
+  <node>
+    <node userID="1234">
+      <node share="true" value="4" y="2013" m="8" d="18" uID="1" tID="0" UAA="false" MIH="false" CAS="false" DAD="false" DIS="false" STO="false" HID="false">
+        <node>4
+5
+6</node>
+      </node>
+      <node share="true" value="4" y="2013" m="8" d="18" uID="2" tID="0" UAA="false" MIH="false" CAS="false" DAD="false" DIS="false" STO="false" HID="false">
+        <node>1
+2
+3</node>
+      </node>
+    </node>
+  </node>
+</node>

@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<node version="1.1">
+	<node name="Agency">
+		<node dimension="1" button="How confident are you about learning">
+			<node scale="a">
+				<node>Confident about yourself as a learner</node>
+				<node>Confident about yourself as a learner in coping with school, determined, feel they have control over things that happen in school, credits success to their efforts, knows what they want to achieve, high expectations, creative</node>
+			</node>
+			<node scale="b">
+				<node>Not confident about yourself as a learner</node>
+				<node>Not confident about yourself as a learner in coping with school, feel things just happen to them in school, experiences school as unpredictable - out of their control, can't cope with pressure,</node>
+			</node>
+		</node>
+		<node dimension="2" button="How do you rate your learning power">
+			<node scale="a">
+				<node>Good at learning</node>
+				<node>Good at learning, good learning power, bright, clever, good progress, pays attention, good concentration, well organised, has good ideas, talented</node>
+			</node>
+			<node scale="b">
+				<node>Not so good at learning</node>
+				<node>Not so good at learning, poor learning power, needs a lot of help, doesn't pay attention, falling behind, poor concentration, poor memory, lack of organisation, doesn't bring books, can't write properly, can't read well, learning difficulty, work is a mess</node>
+			</node>
+		</node>
+		<node dimension="3" button="How fit are you">
+			<node scale="a">
+				<node>In good physical state and fitness</node>
+				<node>In good physical state and fitness, fit and well, energetic, healthy, good eating habits, good build, well rested, neat and tidy, healthy level of activity, exercises well, sporty</node>
+			</node>
+			<node scale="b">
+				<node>In poor physical state</node>
+				<node>In poor physical state and fitness, unfit, health problems, overweight, underweight, clumsy, sleeping problems, tired, very small, hygiene problems, regularly complains of being unwell, bad eating habits, lacking energy</node>
+			</node>
+		</node>
+	</node>
+	<node name="Affiliation">
+		<node dimension="1" button="How well do you get on with people in school">
+			<node scale="a">
+				<node>Good at getting on with people</node>
+				<node>Good at getting on with people, friendly, likeable, easy to get on with, fun, enjoys a joke, sense of humour, funny, easy to get to know, easy to talk to, gives compliments, can join a group, asks others about themselves, makes suggestions about activities</node>
+			</node>
+			<node scale="b">
+				<node>Find it hard to get on with people</node>
+				<node>Find it hard to get on with people, difficult to get on with, can't cope with large groups, gets on better with adults, difficulties making new friends, left out, no friends, sticks to themselves, feels different, picked on, no sense of humour, can't take a joke, shy, talks too much, talks nonsense, unwilling to share</node>
+			</node>
+		</node>
+		<node dimension="2" button="How kind and helpfull are you in school">
+			<node scale="a">
+				<node>Kind and helpful</node>
+				<node>Kind and helpful, honest, respectful, polite, caring, treats everyone equally, understanding, respects property, can say thank you, able to forgive, always wants the best for everyone</node>
+			</node>
+			<node scale="b">
+				<node>Not so kind and helpful</node>
+				<node>Not so kind and helpful, selfish, nasty, disrespectful, bad mannered, tells lies, bully, dishonest, steals, plays jokes on people, calls people names behind their back, stirrer, plays people off against each other, two faced, takes other peoples' stuff without asking</node>
+			</node>
+		</node>
+		<node dimension="3" button="How well do you understand your own and others feelings">
+			<node scale="a">
+				<node>Can understand your own and others' feelings</node>
+				<node>Can understand your own and others' feelings, knows their good and bad points, knows themselves well, can set own targets, able to understand their behaviour,  realises how they affect others, can show their feelings when appropriate, can take a hint, can adjust to how others feel</node>
+			</node>
+			<node scale="b">
+				<node>Can't understand your own and others' feelings</node>
+				<node>Can't understand your own and others' feelings, doesn't know themselves well, doesn't know their good and bad points, doesn't pick up hints, can't show or talk about how they are feeling, insensitive, doesn't read how other people are feeling</node>
+			</node>
+		</node>
+	</node>
+	<node name="Autonomy">
+		<node dimension="1" button="How much do you enjoy learning">
+			<node scale="a">
+				<node>Enjoys learning</node>
+				<node>Enjoys learning, tries their best, up for a challenge, enthusiastic, answers a lot of questions, likes learning new things, keen to improve, sees the point in working hard to improve, willing to take risks with learning, perseveres, good attender, good time keeping, lots of interests, completes homework, likes to do things well, optimistic, copes with setbacks, learns from mistakes, takes criticism well, sets goals for self, looks for help when stuck</node>
+			</node>
+			<node scale="b">
+				<node>Put off learning</node>
+				<node>Put off learning, hates learning, doesn't care about school, lazy, poor attender, poor time keeper, no ambitions, day dreamer, just sits back, never answers any questions, sees no point in school, no interests, never finishes tasks or homework, poor use of free time, gets bored easily, more interested in avoiding failure than getting success, scared to make a mistake, not willing to try anything, pessimistic, blames self for failure, sees no need to improve, doesn't believe hard work will make any difference</node>
+			</node>
+			<node scale="c">
+				<node>Don't want to learn new things</node>
+				<node>Don't want to learn new things, more interested in winding teachers up, wants their own way, not interested in teachers' rewards or concerned about being punished, like to show how they're the best, feel have to prove self by being tough</node>
+			</node>
+			<node scale="d">
+				<node>Hides from learning</node>
+				<node>Hides from learning, stuck in comfort zone, cautious, hasn't much initiative, rarely offers an answer or asks a question</node>
+			</node>
+		</node>
+		<node dimension="2" button="How well do you handle your emotions">
+			<node scale="a">
+				<node>Good at handling emotions</node>
+				<node>Good at handling emotions, calm, doesn't let things get to them, always in good mood, can handle emotions, copes with change, takes losing well, deals well with disappointments and disagreements, well tempered, peaceful, patient, sensible, mature</node>
+			</node>
+			<node scale="b">
+				<node>Bad at handling emotions</node>
+				<node>Bad at handling emotions, emotionally angry, moody, stressed, depressed, sad, nervous, self harming, doesn't cope with change, easily upset, cries a lot, class clown, attention seeking, loud, seeks instant rewards, goes hyper, talks too much, can't sit still, can't wait their turn, impatient, unpredictable, immature</node>
+			</node>
+		</node>
+		<node dimension="3" button="How do you feel about yourself">
+			<node scale="a">
+				<node>Feel goof about self</node>
+				<node>Feel goof about self, like who they are, secure, has self respect, copes with peer pressure- is their own person, confident meeting new people</node>
+			</node>
+			<node scale="b">
+				<node>Never feels good about self</node>
+				<node>Never feels good about self, doesn't like self, hard on self, not sure of self, doesn't care about self, doesn't feel valued or wanted, sees self as failure, gives in to peer pressure, can't stand up for self</node>
+			</node>
+			<node scale="c">
+				<node>Big headed</node>
+				<node>Big headed, arrogant, full of themselves, thinks they're better than everyone else, think they know best, stuck up, know all, puts others down, shows off</node>
+			</node>
+			<node scale="d">
+				<node>Depends on what others think to feel good about self</node>
+				<node>Depends on what others think to feel good about self, over dependent on others' approval, over sensitive, fear of rejection, gives in to peer pressure, can't stand up for self</node>
+			</node>
+		</node>
+		<node dimension="4" button="How cooperative are you in school">
+			<node group="a">
+				<node scale="a">
+					<node>Able to cooperate</node>
+					<node>Able to cooperate, gets on well with teachers, listens to instructions, responsible, reliable, know can't always get own way, questions respectfully, can voice opinion, listens to others' opinions, involved in wide range of school activities</node>
+				</node>
+				<node scale="b">
+					<node>Stands up for self respectfully</node>
+					<node>Stands up for self respectfully able to deal fairly with people, resists pressure to do things, doesn't let others take advantage of them, handles playful teasing</node>
+				</node>
+				<node scale="c">
+					<node>Can be trusted</node>
+					<node>Can be trusted, doesn't rely on teacher, accepts and takes the lead without being bossy.</node>
+				</node>
+			</node>
+			<node group="b">
+				<node scale="d">
+					<node>Won't do what they're told</node>
+					<node>Won't do what they're told, stroppy, always want their own way, answers back, sees everything as a joke, needs to have the last word, gets involved in any hassle, even if nothing to do with them, always in trouble, takes things too far, irresponsible, unreliable, puts people off their work</node>
+				</node>
+				<node scale="e">
+					<node>Grumpy</node>
+					<node>Grumpy, gets angry easily, takes criticism personally, bears grudges for a long time, feels picked on, doesn't trust anyone, always trying to prove self, jealous, blames others, can only see things their own way, can't back down or apologise</node>
+				</node>
+				<node scale="f">
+					<node>Over rely on self</node>
+					<node>Over rely on self, learned to fight own battles, attracted to older friends, gets in with wrong crowd</node>
+				</node>
+			</node>
+			<node group="c">
+				<node scale="g">
+					<node>Will do anything they're told</node>
+					<node>Will do anything they're told, people pleaser, tries too much to be a friend, tries to be teacher's pet, desperate to be liked, easily led, looks up to others too much</node>
+				</node>
+				<node scale="h">
+					<node>Too trusting</node>
+					<node>Too trusting, door mat, lets self be used, gets bossed about all the time, lets people walk all over them, can't say no, picked on, will believe anything</node>
+				</node>
+				<node scale="i">
+					<node>Over dependent</node>
+					<node>Over dependent, copies everything others do, can't do anything for themselves, acts much younger, plays on pity</node>
+				</node>
+			</node>
+		</node>
+	</node>
+	<node name="Family">
+		<node dimension="1" button="How calm is your family life">
+			<node scale="a">
+				<node>Family is stable</node>
+				<node>Family is stable, steady. well supervised, calm family life, safe home, clear rules and limits</node>
+			</node>
+			<node scale="b">
+				<node>Family is often upset</node>
+				<node>Family is often upset, chaotic, parents too strict or too weak, parents - ill, depressed, drug / alcohol problems, parents split up, compete for their affection</node>
+			</node>
+		</node>
+		<node dimension="2" button="Are your family close">
+			<node scale="a">
+				<node>Family is close</node>
+				<node>Family is close, supportive, well looked after, knows they are loved, happy at home, able to work out any problems within the family, gets on well with brothers and sisters</node>
+			</node>
+			<node scale="b">
+				<node>Family is not very close</node>
+				<node>Family is not very close, unhappy at home, doesn't get much attention from family, no-one cares for them, let down by family, bullied by parents, ignored at home, constantly fight with brothers/sisters, parents argue a lot</node>
+			</node>
+		</node>
+		<node dimension="3" button="Does your family give you the right amount of space">
+			<node scale="a">
+				<node>Parents give them the right amount of trust</node>
+				<node>Parents give them the right amount of trust, good understanding with parents, parents supportive, tune into their interests, listen to and understand them</node>
+			</node>
+			<node scale="b">
+				<node>Parents stop them from doing anything</node>
+				<node>Parents stop them from doing anything, over-controlled, crush any initiative, insist on their way oneverything, over criticise, constantly interfere, force then to do things, not allowed to voice their opinion</node>
+			</node>
+			<node scale="c">
+				<node>Have to do everything for themselves</node>
+				<node>Have to do everything for themselves, neglected, overexposed to parents problems, take on parent role from early age, has a lot of domestic duties, have all the power in the family</node>
+			</node>
+			<node scale="d">
+				<node>Over-Protected</node>
+				<node>Over-protected, smothered, parents do everything for them</node>
+			</node>
+		</node>
+		<node dimension="4" button="How interested are you parents in your education">
+			<node scale="a">
+				<node>Parents interested education</node>
+				<node>Parents interested education , help and encourage them to do well, progress at school matters to them, attend parents' evenings etc, helps with homework</node>
+			</node>
+			<node scale="b">
+				<node>Parents not interested education</node>
+				<node>Parents not interested education, don't take any interest in or support their school work, attend parents night etc</node>
+			</node>
+			<node scale="c">
+				<node>Parents never agree with school</node>
+				<node>Parents never agree with school, always complaining about school and arguing with the school, let young person stay off school, brothers and sisters never attended school much</node>
+			</node>
+		</node>
+	</node>
+</node>

@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node cls="3a1" m="3" d="11" y="2010">
+  <node name="tELI3">
+    <node name="Sharing" pairID="1" color="0x00ffff">
+      Being able to trust others and negotiate, cooperate, work as a team, give and take,  see other people`s point of view,  cope when things don`t go your way, have good self-control, make wise choices and decisions that are good for you and others.
+      <node num="1">
+        He/she really enjoys helping others
+        <feedback><node type="1">I really enjoy helping others</node><node type="0">I don`t really enjoy helping others</node></feedback><comment>null</comment></node><node num="2">
+        He/she knows when to be serious and when to mess around
+        <feedback><node type="1">I know when I need to be serious and when I can mess around</node><node type="0">I don`t know when I need to be serious and when I can mess around</node></feedback><comment>null</comment></node><node num="3">
+        He/she will say sorry if they have done something wrong
+        <feedback><node type="1">I say sorry if I have done something wrong</node><node type="0">I can`t say sorry if I have done something wrong</node></feedback><comment>null</comment></node></node>
+    <node name="Wanting your own way" pairID="-1" color="0x00ffff">
+      I want-it-now attitude, I think I can just do what I like, I think I am better than everyone else.
+      <node num="4">
+        He/she enjoys annoying teachers
+        <feedback><node type="1">I would get upset if I annoyed teachers</node><node type="0">I like to annoy teachers</node></feedback><comment>null</comment></node><node num="5">
+        He/she is bossy and likes to get their own way
+        <feedback><node type="1">I won`t be bossy so that I get my own way</node><node type="0">I am bossy to get my own way</node></feedback><comment>null</comment></node><node num="6">If he/she gets a row from the teacher, they show how angry they are       <feedback><node type="1">If I get a row from the teacher, I try not to show how angry I am</node><node type="0">If I get a row from the teacher, I show how angry I am</node></feedback><comment>null</comment></node></node>
+    <node name="Getting Along" pairID="2" color="0xffff00">
+      Being kind and friendly and comfortable with others, aware of the impact of your behaviour on others,  care for, help and protect others, play safely with others, take a stand against bullying, be willing to depend on others.
+      <node num="7">He/she shows an interest in other pupils<feedback><node type="1">I like to get to know other people</node><node type="0">I am not interested in getting to know other people</node></feedback><comment>null</comment></node><node num="8">
+        He/she is good at helping to sort out arguments
+        <feedback><node type="1">I am good at helping to sort out arguments</node><node type="0">I am bad at helping to sort out arguments</node></feedback><comment>null</comment></node><node num="9">
+        Other pupils would describe them as kind
+        <feedback><node type="1">I am kind</node><node type="0">I find it hard to be kind</node></feedback><comment>null</comment></node></node>
+    <node name="Rude" pairID="-2" color="0xffff00">
+      Annoying, alienating and rubbishing your peers, or going it alone, having doubts about others, finding it hard to make relationships.
+      <node num="10">
+        He/she gets involved in fights
+        <feedback><node type="1">I avoid getting into fights</node><node type="0">I get into fights</node></feedback><comment>null</comment></node><node num="11">
+        He/she finds it hard to work with others
+        <feedback><node type="1">I can work with others</node><node type="0">I find it hard to work with others</node></feedback><comment>null</comment></node><node num="12">
+        He/she finds it hard to fit in
+        <feedback><node type="1">I fit in</node><node type="0">I can`t seem to fit in</node></feedback><comment>null</comment></node></node>
+    <node name="Getting stuck in" pairID="3" color="0xff9900">
+      Try your best, stretch yourself, be conscientious, enjoy and be open to learning, be inquiring and creative, take criticism well, focus and shift attention and persist on tasks, and learn from mistakes.
+      <node num="13">
+        He/she will take time to check their work to make it better
+        <feedback><node type="1">I take time to check my work to make it better</node><node type="0">I don`t take time to check my work to make it better</node></feedback><comment>null</comment></node><node num="14">He/she likes getting feedback<feedback><node type="1">I like to hear how others think I`m doing</node><node type="0">I don`t like to hear how others think I`m doing</node></feedback><comment>null</comment></node><node num="15">
+        He/she tries to do the best they can
+        <feedback><node type="1">I do the best I can</node><node type="0">I have stopped doing the best I can</node></feedback><comment>null</comment></node></node>
+    <node name="Giving Up" pairID="-3" color="0xff9900">
+      Being lazy, do as little work as you can get away with, easily distracted and put off your work, don`t care about your work, feel you are good at nothing.
+      <node num="16">
+        He/she finds it hard to stay focused on their work
+        <feedback><node type="1">I can stay focused on my work</node><node type="0">It is difficult for me to stay focused on my work</node></feedback><comment>null</comment></node><node num="17">
+        He/she gives up if something is hard
+        <feedback><node type="1">I don`t give up if something is really hard</node><node type="0">I give up if something is really hard</node></feedback><comment>null</comment></node><node num="18">
+        He/she gets bored easily
+        <feedback><node type="1">I don`t get bored easily</node><node type="0">I get bored easily</node></feedback><comment>null</comment></node></node>
+    <node name="Standing Your Ground" pairID="4" color="0x006600">
+      Express self and voice opinions, stand up for self, show your talents,  resist peer pressure, push self, be competitive, be sure about self and what you want to do, show initiative, be decisive, direct and bold, make things happen, get things done.
+      <node num="19">
+        He/she enjoys showing what they are good at
+        <feedback><node type="1">I enjoy showing what I am good at</node><node type="0">I don't like to show what I am good at</node></feedback><comment /></node><node num="20">
+        He/she would correct the teacher if they made a mistake
+        <feedback><node type="1">I would correct the teacher if they made a mistake</node><node type="0">I would not correct the teacher if they made a mistake</node></feedback><comment>null</comment></node><node num="21">He/she stands up for themselves
+        <feedback><node type="1">I can stand up for myself</node><node type="0">I find it hard to stand up for myself</node></feedback><comment>null</comment></node></node>
+    <node name="Being A Pushover" pairID="-4" color="0x006600">
+      Being apprehensive, a bit of a pushover, avoiding being picked or taking on responsibilities; would like to get close to others but are apprehensive about being rejected, would like to get involved but worried about getting things wrong
+      <node num="22">He/she gets easily upset<feedback><node type="1">It takes a lot to upset me</node><node type="0">I get upset easily</node></feedback><comment>null</comment></node><node num="23">
+He/she avoids being chosen for things<feedback><node type="1">I like being chosen for things</node><node type="0">I avoid being chosen for things</node></feedback><comment>null</comment></node><node num="24">
+It is difficult for him/her to tell people if they have hurt his/her feelings<feedback><node type="1">I can tell people if they have hurt my feelings</node><node type="0">I find it hard to tell people if they have hurt my feelings</node></feedback><comment>null</comment></node></node>
+  </node>
+</node>

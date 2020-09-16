@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<node version="1.1">
+	<node name="Agency">
+		<node dimension="1" button="Self Belief">
+			<node scale="a">
+				<node>Good Self Belief</node>
+				<node>Good self belief in capacity to cope with demands of school, feels in control over things that happen, proactive, credits success to their efforts, determined, future thinking, knows what they want, can set goals for self, high expectations, can plan ahead and make choices, optimistic, asks questions to clarify meaning, creative.</node>
+			</node>
+			<node scale="b">
+				<node>Poor Self Belief</node>
+				<node>Poor self belief in capacity to cope with demands of school, feels intimidated and under pressure, experience school as unpredictable, out of their control, things just happen to them, indecisive, explain failure through pessimistic beliefs leading to apathy.</node>
+			</node>
+		</node>
+		<node dimension="2" button="Learning Competency">
+			<node scale="a">
+				<node>Good Learning Competency</node>
+				<node>Good learning competency, able, talented, picks things up quickly, attentive, focused, works well on their own, seeks help where necessary, works efficiently in a group, good learning organization / planning, good strategy use, eg study skills, good literacy, numeracy and verbal skills, links new learning with current knowledge, sees meaning, learns from experience, clear thinker, imaginative, sees the big picture, good problem solver.</node>
+			</node>
+			<node scale="b">
+				<node>Poor Learning Competency</node>
+				<node>Poor learning competency, poor learning skills, low achievement, learning difficulties, poor concentration, doesn't listen, careless, difficulties understanding how school works, overly litteral, unsure of rules and boundaries, lack of organisation, never knows correct procedures, can't tell fact from fiction, no strategy, eg just guesses, low ability, doesn't learn from experience, poor life skills such as using transport, limited self care skills, won't listen or learn from advice, poor problem solving, unimaginative.</node>
+			</node>
+		</node>
+		<node dimension="3" button="Physical Well-Being">
+			<node scale="a">
+				<node>Good Physical Well-Being</node>
+				<node>Good physical well-being, fit and well, healthy vitality, good diet, good eating habits, well coordinated, confident about body image, well rested, clean and tidy, good build, physically attractive, healthy level of activity, energetic, sporty.</node>
+			</node>
+			<node scale="b">
+				<node>Poor Physical Well-Being</node>
+				<node>Poor physical well being, unfit, health problems, regularly unwell, overweight, underweight, small stature, clumsy, tired all the time, poor nutrition, poor eating patterns, hygiene problems, unkempt, delayed development, under active, lethargic, slow.</node>
+			</node>
+		</node>
+	</node>
+	<node name="Affiliation">
+		<node dimension="1" button="Social Skills">
+			<node scale="a">
+				<node>Good Social Skills</node>
+				<node>Good social skills, well accepted, friendly, likeable, loyal, can play well, good circle of friends, able to form and sustain relationships- even through difficult times, manages conflict well, sense of humour, enjoys a joke, listens and communicates well, connects emotionally, good at turn taking etc, seeks and shares ideas, opinions and resources, easy to be with and get to know, gives praise and compliments, can join a group, gives greetings, asks others about themselves, makes suggestions about activities, can disclose personal problems.</node>
+			</node>
+			<node scale="b">
+				<node>Poor Social Skills</node>
+				<node>Poor social skills alienated, difficulties making or keeping friends, difficult to get on with, unwilling / unable to share or take turns, doesn't know how to approach others, no eye contact, says the wrong thing, poor listener, boring, talks nonsense, makes crass jokes, can't take a joke, difficult to get to know, uncommunicative of thoughts or feelings, loner, finds group settings difficult, rejected, scapegoated, the butt of jokes, picked on, attracted to younger group, prefers adult company.</node>
+			</node>
+		</node>
+		<node dimension="2" button="Social Values">
+			<node scale="a">
+				<node>Pro Social Values</node>
+				<node>Pro social values, empathic, warm, kind, sense of belonging, generous, expresses gratitude, open, sincere, trustworthy, has a sense of right and wrong, caring, supportive, protective, sense of duty, respectful, well mannered, non judgemental, forgiving.</node>
+			</node>
+			<node scale="b">
+				<node>Exploitative</node>
+				<node>Exploitative, lacks empathy, doesn't listen, cruel, mean, offensive, lack of remorse, ruthless, manipulative, senses and exploits others' vulnerabilities, abuses physical stature, untrustworthy, steals, tells lies, doesn't keep promises, takes others things, bad mannered, negatively critical,  bigot, bully, wants to dominate others, gets others into trouble, interfering, calls people names behind their back, winds people up, plays jokes on people, divisive.</node>
+			</node>
+		</node>
+		<node dimension="3" button="Emotional Literacy">
+			<node scale="a">
+				<node>High Emotional Literacy</node>
+				<node>High emotional literacy, good self and social awareness, reflective, able to self-evaluate, sets own targets, tunes into the emotional atmosphere, connects emotionally, able to recognise/appraise others' emotions and respond with appropriate emotion, aware of impression they create, can talk about their emotional experience, can show their feelings when appropriate, good understanding of other peoples' problems, to predict others' behaviour, good at interpreting gestures and facial expressions.</node>
+			</node>
+			<node scale="b">
+				<node>Low Emotional Literacy</node>
+				<node>Low emotional literacy, poor self awareness, little insight into their behaviour, self-deluding, unaware of the signals given out by their body language, doesn't pick up others' cues or hints, over familiar, unaware of boundariescan't show how they are feeling, treats others as if they don't have feelings, doesn't have vocabulary to express feelings, unable to take another's perspective, to predict others' behaviour, not good at interpreting gestures and facial expressions.</node>
+			</node>
+		</node>
+	</node>
+	<node name="Autonomy">
+		<node dimension="1" button="Self Motivation">
+			<node scale="a">
+				<node>Self-Motivated</node>
+				<node>Self-motivated, engaged in learning, energetic, hard working, interested, enterprising, likes to do things well, sense of purpose, sets realistic goals, good attender, good time keeping, spends time regularly in extra-curricular activities, range of interests, completes homework regularly, critical curiosity, persistent, seeks opportunities, open minded, keen to try different activities, likes learning new skills, sees the point in working hard to improve, willing to take risks, likes challenges, copes with setbacks, learns from mistakes, takes criticism well.</node>
+			</node>
+			<node scale="b">
+				<node>Disengaged</node>
+				<node>Disengaged, difficult to motivate, put off learning, poor attender, poor time keeper, tries to get away with as little as possible, no organised activities, doesn't use free time well, gets bored easily, no interests, gives up easily, no clear goals, directionless, refuses any help, hard to help, sees no relevance /importance in school, more interested in avoiding failure than getting success, learned helplessness, assumes their work is always wrong, unwilling to take risks, sees no need to improve, lacks ambition, doesn't believe hard work will make any difference.</node>
+			</node>
+			<node scale="c">
+				<node>Resistant</node>
+				<node>Resistant, difficult to motivate, motivated more to oppose teacher/ wind teachers up / win one over the system, wants own way, not interested in `teacher' rewards or punishments, distracted and aroused by conflict, gets involved in fueds even if nothing to do with them, feel have to prove themselves, looks for status from anti social activities.</node>
+			</node>
+			<node scale="d">
+				<node>Holding back</node>
+				<node>Holding back, difficult to motivate, restricted, stuck in comfort zone, passive, cautious, lacks initiative, rarely volunteers an answer or asks for help.</node>
+			</node>
+		</node>
+		<node dimension="2" button="Emotional Management">
+			<node scale="a">
+				<node>Good Emotional Management</node>
+				<node>Good emotional management, resilient, stable, flexible, predictable, consistent, patient, able to change behaviour, good mood control, relaxed,  robust, strong, can hide or change feelings, expresses anger appropriately, deals well  with loss, change and transitions, doesn't let things get to them, works through emotional difficulties,  can enjoy solitude, can postpone gratification, turns to others for emotional support.</node>
+			</node>
+			<node scale="b">
+				<node>Poor Emotional Management</node>
+				<node>Poor emotional management, anxious, depressed, sad, vulnerable, easily upset, doesn't cope with change / disappointments, unable to keep things in perspective or put upsets behind them, inflexible, irrational, hopelessness, burdened by constant difficulties in all relationships/settings, triggers are difficult to identify and pre-empt, unable to self-soothe, mood swings, explosive, emotionally angry, doesn't  manage their anger, slightest provocation triggers anger, uncontrolled aggression, when explodes is hostile even to those close to them, impulsive, seeks instant rewards, unpredictable, impatient, manic, reckless and accident prone, can't share emotional concerns, may try to get physical contact with adults.</node>
+			</node>
+		</node>
+		<node dimension="3" button="Self-Emotions">
+			<node scale="a">
+				<node>Energising Self-Emotions</node>
+				<node>Energising self-emotions, comfortable with self, well grounded sense of self, positive identity, self-assured, feels valued, strong individual character, unassuming, doesn't take self too seriously, retains a sense of humour even at their expense, welcomes praise, accepting of support, withstands peer pressure, high expectations of self, takes pride in work, confident meeting new people, open to candid feedback.</node>
+			</node>
+			<node scale="b">
+				<node>Draining Self Emotions</node>
+				<node>Draining self emotions, fragile, insecure, puts self down, doesn't feel valued, sees offers of help as confirming their inadequacy, a "careless" style of self management, sees self as failure, unable to recognise own strengths or potential, gives in to peer pressure, self-harming.</node>
+			</node>
+			<node scale="c">
+				<node>Inflated Self-Emotions</node>
+				<node>Inflated self-emotions, arrogant, patronising, misplaced confidence, show off, tries to impress too much,, know all, thinks they're better than everyone else, feel they are above the law.</node>
+			</node>
+			<node scale="d">
+				<node>Contingent Self-Emotions</node>
+				<node>Contingent self-emotions, not sure of self, sensitive to comments, over dependent on and seeks constant approval from others, copies what others do, always apologising for self.</node>
+			</node>
+		</node>
+		<node dimension="4" button="Cooperation">
+			<node group="a">
+				<node scale="a">
+					<node>Cooperative</node>
+					<node>Cooperative, good team player, sees benefits of rules, understands how school needs to work, listens to instructions, follows safety procedures, accepts authority, feels part of and takes pride in school, mature, peaceable</node>
+				</node>
+				<node scale="b">
+					<node>Assertive</node>
+					<node>assertive, self directing, principled, stands up for self and their beliefs, resists pressure to do things, handles teasing, challenges constructively, can question respectfully, can voice opinion-even when in minority, can disagree with people without falling out, keen sense of fairness, peacemaker</node>
+				</node>
+				<node scale="c">
+					<node>Inter-Dependent</node>
+					<node>inter-dependent, feels part of a bigger picture, creates harmony, positive influence over others, accepts and takes the lead, listens to and values others' opinions, involved in wide range of school activities, shares responsibility, shares the credit, seeks status from pro social activities, good role model.</node>
+				</node>
+			</node>
+			<node group="b">
+				<node scale="d">
+					<node>Oppositional</node>
+					<node>Oppositional, doesn't accept boundaries, defiant, cheeky, no respect for authority, constantly asks silly questions, confrontational, has an answer for everything, feels defeated if does as told, likes to win one over the system, couldn't care less about pleasing adults, not interested in `teacher' rewards or punishments, always wants their own way, always thinks they're right, stubborn, over competitive, coercive, silencing, forces opinion on others, doesn't know when to stop, disrupts others' learning, irresponsible</node>
+				</node>
+				<node scale="e">
+					<node>Aggrieved</node>
+					<node>aggrieved, angry, touchy, bears grudges, argumentative, feels misunderstood, chip on shoulder, primed for grievance, starts problem but doesn't get caught, aroused by conflict, gets involved in feuds even if nothing to do with them, fights others' injustices, allows small incidents to become major events, feel have to prove themselves, won't let go of any sense of unfairness, asserts rights unreasonably, makes unfounded accusations, can't back down or apologise, suspicious, blames others, planned, pre meditated aggression, threatening body language, dangerous</node>
+				</node>
+				<node scale="f">
+					<node>Distorted Autonomy</node>
+					<node>distorted autonomy, think they can do what they like, learned to survive rather than have needs met, bottles up feelings, over reliance on self, insecure but has mask of invulnerability, frightened but fearless, older than their years, little opportunity to be a child, feels outgrown school, street wise, attracted to older peers, lead others anti school, looks for status from anti social activities and belonging from anti social peers, sensation and high risk seeking through crime, drug misuse, alcohol, danger to self and others.</node>
+				</node>
+			</node>
+			<node group="c">
+				<node scale="g">
+					<node>Over Compliant</node>
+					<node>Over compliant people pleaser, blindly conforming, great need for rules, finds any kind of freedom difficult to handle, anxious to please, ingratiating, easily led</node>
+				</node>
+				<node scale="h">
+					<node>Over Trusting</node>
+					<node>over trusting, gullible, naive, submissive, put self at risk, let themselves be overlooked, inhibited, magnet for teasing, over tolerant, blames self for things beyond their control, accept unfair treatment, easily manipulated, can't say no, uncritical, no views, values or principles of own</node>
+				</node>
+				<node scale="i">
+					<node>Restricted Autonomy</node>
+					<node>restricted autonomy, over-dependent, acts much younger, can't think or stand up for themselves, constantly asking the same questions, unable to make decisions, needs constant reassurance, clingy, possessive, over-involved, plays on pity, attention-seeker, sees peer ridicule as some form of relationship.</node>
+				</node>
+			</node>
+		</node>
+	</node>
+	<node name="Family" >
+		<node dimension="1" button="Stabiltiy of Family">
+			<node scale="a">
+				<node>Stable Family</node>
+				<node>Stable family, calm family life, well-supervised, consistent parenting, safe home, clear rules, parents show responsible behaviour.</node>
+			</node>
+			<node scale="b">
+				<node>Turbulent Family</node>
+				<node>Turbulent family, lack of supervision, inconsistent, no limits set, parents unable to discipline, too strict or too weak discipline, parents chronically ill, mental health/drug or alcohol problems, parents split up, compete for their affection, only episodic contact with parents, clothes often in a poor state, poor hygiene, often hungry, often has nits and lice, health issues left untreated, medical appointments not kept.</node>
+			</node>
+		</node>
+		<node dimension="2" button="Closeness of Family">
+			<node scale="a">
+				<node>Close Family</node>
+				<node>Close family, happy at home, know they are loved, talk fondly about the family,  get lots of affection at home, unconditionally accepted, good understanding, able to work out any problems within the family, good relationships with siblings, children's needs given priority.</node>
+			</node>
+			<node scale="b">
+				<node>Not So Close Family</node>
+				<node>Not so close family, home has little capacity for support, early attachment difficulties, doesn't get much affection, parent negative and rejecting, scapegoated /neglected by parents, don't feel they belong, loss and separation, constantly fight with siblings, parents argue a lot, domestic violence, history of being in care, abusive background, parent needs dominate, unresolved loss not dealt with appropriately.</node>
+			</node>
+		</node>
+		<node dimension="3" button="Autonomy Within Family">
+			<node scale="a">
+				<node>Given Appropriate Autonomy Support</node>
+				<node>Given appropriate autonomy support, right amount of trust, appropriate expectations, tune into child's interests, balance limit setting with encouraging exploration, parents explain and discuss reasons for any disagreement, allow increasing self reliance while maintaining support, help child identify and follow their interests and goals, encourage initiative, allow them to take responsibilities, involve them in decision making.</node>
+			</node>
+			<node scale="b">
+				<node>Crushed Autonomy</node>
+				<node>Crushed autonomy, over controlled, parents undermine any initiative, insist on their own way, over criticising, interfering, forcing child to do things, all of child's time over-programmed with organisedactivities,  criticism and opinion is suppressed.</node>
+			</node>
+			<node scale="c">
+				<node>Over-Exposed</node>
+				<node>Over-exposed, left to bring self up, overexposed to parents problems, spends all their time in adult company, parents forfeited their authority, take on parent role from early age, protecting parent, young person has all the power in family, older siblings take a lot to do with their schooling, has had to dress and look after themselves, has a lot of domestic duties, exposed to violence, picks up inappropriate conversations from siblings.</node>
+			</node>
+			<node scale="d">
+				<node>Over-Protected</node>
+				<node>Over-protected, restricted, smothered, parents do everything for them, spoiled, inappropriate boundaries, won't let them go on school trips.</node>
+			</node>
+		</node>
+		<node dimension="4" button="Parental Engagement">
+			<node scale="a">
+				<node>Parents Engaged in Education</node>
+				<node>Parents engaged in education, keen on education, actively involved in helping young person succeed in school, educational progress matters to the family, take an interest in school work, attend parents' evenings etc, help with homework.</node>
+			</node>
+			<node scale="b">
+				<node>Parents Disengaged from Education</node>
+				<node>Parents disengaged from education, overwhelmed, not interested in and don't see the value of education, low expectations, don't want children to break out of their mould, anti success, lack of learning models, parents don't support school, attend parent nights, show interest in school work, don't help with homework, let young person stay off, family pattern of truancy, often late for school, parents don't reply to letters, won't sign homework.</node>
+			</node>
+			<node scale="c">
+				<node>Parents Anti-School</node>
+				<node>Parents anti-school, their main motive is to beat system, use the child to fight with the school, model manipulative behaviour, license or encourage their child's opposition, show an anti school attitude, parents think they can do no wrong, write notes to get them off the hook, jump to conclusion quickly that they're picked on by school.</node>
+			</node>
+		</node>
+	</node>
+</node>

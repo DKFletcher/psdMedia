@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<node>
+	<node url="swf/menu.swf" loc="loadTop" com1="0" com2="0">
+		<node size="1000" url="xml/menu.xml"></node>
+		<node size="68095" url="swf/assetLibrary.swf"></node>
+		<node size="18022" url="swf/scaleTwo.swf"></node>
+		<node size="6057" url="swf/scaleOne.swf"></node>
+		<node size="19994" url="swf/scaleThree.swf"></node>
+		<node size="17473" url="swf/doeNut.swf"></node>
+		<node size="9386" url="swf/doeNutShim.swf"></node>
+		<node size="3247" url="swf/segement.swf"></node>
+		<node size="5523" url="swf/pScaleYP.swf"></node>
+		<node size="6106" url="swf/targetControl.swf"></node>
+		<node size="112177" url="swf/menu.swf"></node>
+	</node>
+	<node url="swf/controlMain.swf" loc="loadBase" com1="-1" com2="0">
+		<node size="20000" url="xml/pro.xml"></node>
+		<node size="11294" url="swf/textJig.swf"></node>
+		<node size="21540" url="swf/printObject.swf"></node>
+		<node size="7368" url="swf/details.swf"></node>
+		<node size="5023" url="swf/evScale.swf"></node>
+		<node size="8286" url="swf/evidence.swf"></node>
+		<node size="44575" url="swf/feedBackPro.swf"></node>
+		<node size="13649" url="swf/controlMain.swf"></node>
+	</node>
+	<node url="swf/ustFeed.swf" loc="loadBase" com1="-1" com2="0">
+		<node size="20000" url="xml/pro.xml"></node>
+		<node size="14041" url="swf/textJigUST.swf"></node>
+		<node size="21540" url="swf/printObject.swf"></node>
+		<node size="20134" url="swf/ustFeed.swf"></node>
+	</node>
+	<node url="swf/controlYP.swf" loc="loadBase" com1="-1" com2="0">
+		<node size="14000" url="xml/yp.xml"></node>
+		<node size="12746" url="swf/textJigYP.swf"></node>
+		<node size="31572" url="swf/printObjectYP.swf"></node>
+		<node size="7368" url="swf/details.swf"></node>
+		<node size="33190" url="swf/feedBack.swf"></node>
+		<node size="20952" url="swf/controlYP.swf"></node>
+	</node>
+</node>

@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node compat="psf12062014">
+  <node stance="PUSHOVER">
+    <node sheet="1" position="6">helps too soon and too much</node>
+    <node sheet="6" position="1">easily persuaded by children</node>
+    <node sheet="2" position="5">let's children away with murder</node>
+    <node sheet="4" position="4">tries to be children's friend</node>
+    <node sheet="3" position="6">afraid to displease children</node>
+    <node sheet="5" position="2">accepting to a fault</node>
+  </node>
+  <node stance="BRUISER">
+    <node sheet="1" position="4">imposes their ideas</node>
+    <node sheet="4" position="1">treats children unfairly</node>
+    <node sheet="7" position="5">hurtfully sarcastic</node>
+    <node sheet="8" position="6">winds children up</node>
+    <node sheet="2" position="4">selfishly demanding</node>
+    <node sheet="5" position="6">always needs to be in control</node>
+  </node>
+  <node stance="CRUSHER">
+    <node sheet="2" position="1">never know what they will do next</node>
+    <node sheet="9" position="1">unreasonable</node>
+    <node sheet="4" position="5">makes a fool of children</node>
+    <node sheet="3" position="3">goes easily into a rage</node>
+    <node sheet="8" position="5">reminds children of their faults </node>
+    <node sheet="5" position="3">doesn't take children seriously</node>
+  </node>
+  <node stance="DISAPPROVER">
+    <node sheet="3" position="5">judgemental</node>
+    <node sheet="5" position="5">withholds compliments</node>
+    <node sheet="7" position="6">puts children down</node>
+    <node sheet="2" position="2">has favourites</node>
+    <node sheet="9" position="5">impossible to please</node>
+    <node sheet="4" position="3">uninvolved &amp; remote</node>
+  </node>
+  <node stance="PUSHER">
+    <node sheet="1" position="2">high expectations of children</node>
+    <node sheet="2" position="3">fosters independence</node>
+    <node sheet="6" position="6">strict, no nonsense approach</node>
+    <node sheet="3" position="4">organises activities for children</node>
+    <node sheet="4" position="2">rewards children for success</node>
+    <node sheet="5" position="4">competitive</node>
+  </node>
+  <node stance="PROTECTOR">
+    <node sheet="9" position="6">think the children can do no wrong</node>
+    <node sheet="6" position="5">makes few demands of children</node>
+    <node sheet="8" position="1">over-involved</node>
+    <node sheet="5" position="1">over-protective</node>
+    <node sheet="7" position="1">does everything for the children</node>
+    <node sheet="4" position="6">nervous about their activities</node>
+  </node>
+  <node stance="HUGGER">
+    <node sheet="8" position="4">fair</node>
+    <node sheet="6" position="2">enjoys a laugh with the children</node>
+    <node sheet="9" position="2">warm &amp; approachable</node>
+    <node sheet="1" position="1">calm &amp; relaxed</node>
+    <node sheet="2" position="6">talks with, not at, children</node>
+    <node sheet="7" position="2">sensitive</node>
+  </node>
+  <node stance="EXASPERATOR">
+    <node sheet="7" position="4">can't make up their mind</node>
+    <node sheet="1" position="3">over-attentive</node>
+    <node sheet="8" position="3">interfering</node>
+    <node sheet="3" position="1">nagging</node>
+    <node sheet="9" position="3">shows off</node>
+    <node sheet="6" position="4">tries but fails to be funny</node>
+  </node>
+  <node stance="UPLIFTER">
+    <node sheet="1" position="5">keeps things in perspective</node>
+    <node sheet="9" position="4">exciting &amp; fun</node>
+    <node sheet="6" position="3">always there for children</node>
+    <node sheet="7" position="3">never gives up on children</node>
+    <node sheet="8" position="2">makes things happen for children</node>
+    <node sheet="3" position="2">flexible, open to negotiation</node>
+  </node>
+  <best>null</best>
+  <worst>null</worst>
+</node>

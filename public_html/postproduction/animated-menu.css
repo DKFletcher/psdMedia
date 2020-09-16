@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+#topright {
+    margin:0;
+    padding:0;
+    position: absolute;
+    right: 0;
+    top: 0;
+}
+body{
+    font-family:"Lucida Grande", arial, sans-serif;
+    background:#000000;
+	margin:0;
+    padding:0;
+}
+
+ul{
+    margin:0;
+    padding:0;
+}
+
+li{
+    width:150px;
+    height:50px;
+    float:left;
+    color:#191919;
+    text-align:center;
+    overflow:hidden;
+}
+
+a{
+    color:#000;
+    text-decoration:none;
+}
+
+p{
+    padding:0px 5px;
+}
+
+    .subtext{
+        padding-top:15px;
+    }
+
+/*Menu Color Classes*/
+.menu1{background:#CCACA7;}
+.menu2{background:#CFFFAB;}
+.menu3{background:#C4CCA7;}
+.menu21{background:#10C8CD;}
+.menu22{background:#EC7B95;}
+.menu23{background:#AAF523;}
+.green{background:#6AA63B;}
+.yellow{background:#FBC700;}
+.red{background:#D52100;}
+.purple{background:#5122B4;}
+.blue{background:#0292C0;}

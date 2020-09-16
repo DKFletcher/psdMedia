@@ -1,0 +1,115 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+}
+body{
+    font-family:"Lucida Grande", arial, sans-serif;
+    background:#000000;
+	margin: 0;
+    padding:0;	
+}
+#bodyUp{
+	position: absolute;
+	width: 828px;
+	left: 50%;
+	margin-left: -414px;
+}
+	
+#topright {
+    float: right;
+    top: 0;
+	z-index:-1;
+}
+#copyContainer{
+	position: absolute;
+	top:50px;
+	z-index:-2;
+}
+#copyHeader{
+	position: absolute;
+	top: 150px;
+	color: #f1f1f1;
+}
+#copyText{
+	width: 414px;
+	float: left;
+	color: #f1f1f1;
+    text-align:justify;
+}
+#copyImage{
+	position:relative;
+	top: 0px;
+	float: left;
+}
+#any-height { 
+    width: 828px;
+    height: 240px;
+	vertical-align: middle;
+	display: inline-block;
+}
+ul{
+    margin:0;
+    padding:0;
+}
+
+li{
+    width:138px;
+    height:50px;
+    float:left;
+    color:#191919;
+    text-align:center;
+    overflow:hidden;
+}
+
+a{
+    color:#000;
+    text-decoration:none;
+}
+
+h1 {  
+    font-size: 28px;
+    color: #f1f1f1; 
+    text-align: left;  
+    line-height: 12px; 
+    text-decoration: none; 
+}  
+  
+h2 {  
+    font-size: 20px;  
+    line-height: 20px;  
+    color: #f1f1f1;
+	margin:0;
+    padding:0;
+}  
+h3 {
+	width: 828px;  
+    font-size: 10px;  
+    line-height: 10px;  
+    color: #f1f1f1;
+    text-align: right;
+	margin:0;
+    padding:0;
+}
+h4{
+    margin: 0
+}
+
+p{
+    padding:0px 0px;
+}
+    .subtext{
+        padding-top:15px;
+}
+/*Menu Color Classes*/
+.menu1{background:#CCACA7;}
+.menu2{background:#CFFFAB;}
+.menu3{background:#C4CCA7;}
+.menu21{background:#10C8CD;}
+.menu22{background:#EC7B95;}
+.menu23{background:#AAF523;}
+.menu24{background:#AAF523;}
+.green{background:#6AA63B;}
+.yellow{background:#FBC700;}
+.red{background:#D52100;}
+.purple{background:#5122B4;}
+.blue{background:#0292C0;}

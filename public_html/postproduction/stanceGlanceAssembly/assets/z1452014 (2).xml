@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<node compat="sg1452014">
+  <node stance="PEST">
+    <node sheet="1" position="3">attention seeking</node>
+    <node sheet="2" position="1">distracting</node>
+    <node sheet="3" position="5">class clown</node>
+    <node sheet="4" position="4">annoying</node>
+    <node sheet="5" position="5">can't make up my mind</node>
+    <node sheet="6" position="2">confused</node>
+  </node>
+  <node stance="TEAM PLAYER">
+    <node sheet="7" position="6">team player</node>
+    <node sheet="8" position="2">cooperative &amp; trusting</node>
+    <node sheet="9" position="6">modest</node>
+    <node sheet="1" position="1">calm &amp; chilled</node>
+    <node sheet="2" position="5">take care not to hurt others</node>
+    <node sheet="3" position="4">like to please</node>
+  </node>
+  <node stance="USER">
+    <node sheet="4" position="6">take advantage of others</node>
+    <node sheet="5" position="3">enjoy playing jokes on others</node>
+    <node sheet="6" position="3">I think I'm special</node>
+    <node sheet="7" position="1">like to get involved in arguments</node>
+    <node sheet="8" position="4">cocky</node>
+    <node sheet="9" position="4">need to get my own way</node>
+  </node>
+  <node stance="ZONING OUT">
+    <node sheet="1" position="4">show that I am bored</node>
+    <node sheet="2" position="3">not interested in taking part</node>
+    <node sheet="3" position="2">sulky</node>
+    <node sheet="4" position="3">rude</node>
+    <node sheet="5" position="6">keep to myself</node>
+    <node sheet="6" position="4">snooty</node>
+  </node>
+  <node stance="VULNERABLE">
+    <node sheet="7" position="4">obedient</node>
+    <node sheet="8" position="6">too trusting</node>
+    <node sheet="9" position="5">bit of a pushover</node>
+    <node sheet="4" position="1">take things to heart</node>
+    <node sheet="2" position="4">can't stand up for self</node>
+    <node sheet="3" position="3">hard on self</node>
+  </node>
+  <node stance="HIDING">
+    <node sheet="1" position="6">shy</node>
+    <node sheet="5" position="1">easily embarrassed</node>
+    <node sheet="6" position="5">self conscious</node>
+    <node sheet="7" position="3">avoid being picked</node>
+    <node sheet="8" position="1">sad</node>
+    <node sheet="9" position="2">frightened of making mistakes</node>
+  </node>
+  <node stance="MAKING-IT-HAPPEN">
+    <node sheet="1" position="5">leader</node>
+    <node sheet="2" position="2">share my knowledge</node>
+    <node sheet="3" position="6">never give up</node>
+    <node sheet="5" position="2">help everyone work together</node>
+    <node sheet="5" position="4">trusted by most of the class</node>
+    <node sheet="6" position="1">people look up to</node>
+  </node>
+  <node stance="GO-GETTER">
+    <node sheet="7" position="5">like to organise people</node>
+    <node sheet="8" position="5">impatient of others</node>
+    <node sheet="9" position="3">confident</node>
+    <node sheet="1" position="2">competitive &amp; ambitious</node>
+    <node sheet="2" position="6">keen to impress</node>
+    <node sheet="3" position="1">not scared to speak out</node>
+  </node>
+  <node stance="OWN WORST ENEMY">
+    <node sheet="4" position="5">jealous</node>
+    <node sheet="4" position="2">hate a lot of people</node>
+    <node sheet="6" position="6">feel humiliated at times</node>
+    <node sheet="7" position="2">moody</node>
+    <node sheet="8" position="3">giving up on being part of things</node>
+    <node sheet="9" position="1">put myself down</node>
+  </node>
+  <most>null</most>
+  <least>null</least>
+</node>
